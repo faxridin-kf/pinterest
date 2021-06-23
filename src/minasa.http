@@ -1,0 +1,10 @@
+POST https://unsplash.com/oauth/token HTTPS/1.1
+Content-Type: application/json
+headers: Bearer DdDO-mZIcbn7V4IVQX4g59YWigB7Wb0J81FWR0r-J54
+{
+  "access_token": "DdDO-mZIcbn7V4IVQX4g59YWigB7Wb0J81FWR0r-J54",
+  "token_type": "bearer",
+  "scope": "public",
+  "created_at": 1588259748
+}
+
